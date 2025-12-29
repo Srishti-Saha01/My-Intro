@@ -6,5 +6,5 @@ Self-driven MCA graduate with 1.5 years of professional experience at TCS Kolkat
 Ask me about **Data Analysis, Artificial Intelligence, Python and Web Development**
 
 Connect me
-✉️srishti.saha10@gmail.com
+ ✉️srishti.saha10@gmail.com
 🔗www.linkedin.com/in/srishti31
