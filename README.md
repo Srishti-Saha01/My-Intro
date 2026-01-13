@@ -1,7 +1,7 @@
 # My-Intro
-<b align = "center">
-## Hey, I am Srishti👋🏻
-</b>
+<p align = "center">
+<strong> Hey, I am Srishti👋🏻</strong>
+</p>
 
 <p align="center">
   <img src="GreetingGirl.gif" width="200"/>
