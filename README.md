@@ -1,6 +1,5 @@
 # My-Intro
-**Hey, I am Srishti**👋🏻
-## 👋 Hey, I am Srishti
+## Hey, I am Srishti👋🏻
 
 <p align="center">
   <img src="GreetingGirl.gif" width="200"/>
