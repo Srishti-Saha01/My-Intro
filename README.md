@@ -13,4 +13,4 @@ Ask me about **Data Analysis, Artificial Intelligence, Python and Web Developmen
 
 Connect me
  ✉️srishti.saha10@gmail.com
-🔗www.linkedin.com/in/
+🔗https://www.linkedin.com/in/srishti31
